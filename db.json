@@ -5,8 +5,4 @@
     { "id": 3, "title": "Post 3", "espaço branco coluna": "teste", "outra_prop": "teste" }
   ],
   "vazio": [],
-  "ticketsApi": [
-    { "id": 1, "ticket": "TT33", "grupo": "Nivel 1", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" },
-    { "id": 2, "ticket": "TT34", "grupo": "Nivel 1", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" },
-  ]
 }
