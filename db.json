@@ -3,5 +3,6 @@
     { "id": 1, "title": "<b>Pedro</b> Gregorio ", "outra_prop": "teste 1" },
     { "id": 2, "title": "<strong>Antonio</strong> Rodrigues", "outra_prop": "teste 2" },
     { "id": 3, "title": "<b> ajuste:</b> Meu Nome <strong>É</strong> esse daqui <b>Pedro</b> !!", "outra_prop": "teste 3" }
+    { "id": 4, "title": "sem bold aqui", "outra_prop": "teste 4" }
   ]
 }
